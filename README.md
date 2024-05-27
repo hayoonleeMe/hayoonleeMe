@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**hayoonleeMe/hayoonleeMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+### I'm Hayoon Lee
+### Studying Game Development using Unreal Engine & C++
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stacks 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=flat&logo=unrealengine&logoColor=white)  
+
+## 🏅 Stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayoonleeMe&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=htdovad)](https://solved.ac/htdovad)
