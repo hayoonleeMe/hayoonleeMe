@@ -1,10 +1,10 @@
 
-### Hi there 👋
+### 🎮 Hi there 👋
 ### I'm Hayoon Lee
-## Exploring
+## Exploring 🔍
 Game Development using Unreal Engine & C++
 
-### Currently Learning
+### Currently Learning 💡
 - Unreal Engine's Gameplay Ability System (GAS)
 - Computer Graphics with DirectX11
 
