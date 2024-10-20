@@ -1,10 +1,11 @@
 
-### 🎮 Hi there 👋
-### I'm Hayoon Lee 
+### 안녕하세요.
+### 저는 이하윤입니다.
+[Resume](https://chain-account-4c3.notion.site/Resume-123674d4e3fa808dace8f45ea1375cf8)
 <br/>
 
 ## 🔍 Exploring
-Game Development using Unreal Engine & C++
+Game Client Development using Unreal Engine & C++
 
 ### 💡 Currently Learning
 - Unreal Engine's Gameplay Ability System (GAS)
